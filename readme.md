@@ -1,32 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sahil Saundale</h1>
-<h3 align="center">Algorithm: Word used by programmers when they don’t want to explain what they did.</h3>
+![2](https://user-images.githubusercontent.com/68701068/214940085-db5102a5-b973-49cb-8c73-7472949cff2e.gif)
+![DifficultLimpingBubblefish-max-1mb](https://user-images.githubusercontent.com/68701068/214940176-0fcc6dc7-cf02-4f97-9b78-82a4361440a7.gif)
+![download](https://user-images.githubusercontent.com/68701068/214940178-041c60d9-fdd5-49a3-a6a5-1dc3fc989892.png)
+![css](https://user-images.githubusercontent.com/68701068/214940243-b1b6c056-8cbf-4372-b38d-819d52622449.png)
+![java](https://user-images.githubusercontent.com/68701068/214940279-d10c4f98-24c2-4ffb-b0c8-82ec2d2f62fe.png)
+![html](https://user-images.githubusercontent.com/68701068/214940293-958451fe-ab29-44ad-a2ae-004555ce34ae.png)
+![javascript-logo-transparent-logo-javascript-images-3](https://user-images.githubusercontent.com/68701068/214940312-b565f2bb-4ddd-4bdf-90cd-36f083cb978e.png)
+![linux](https://user-images.githubusercontent.com/68701068/214940324-7da4959c-de57-4ca0-8e26-3424dbaad4b8.png)
+![MySQL-Logo wine](https://user-images.githubusercontent.com/68701068/214940329-15a46061-b5f9-44cd-9f0f-49b50adfcc07.png)
+![python](https://user-images.githubusercontent.com/68701068/214940340-531e0364-cc0f-4cbd-a19d-898b579e95ea.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=root-pik4chu&label=Profile%20views&color=0e75b6&style=flat" alt="root-pik4chu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sahil_saundale" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_saundale?logo=twitter&style=for-the-badge" alt="sahil_saundale" /></a> </p>
-
-- 🌱 I’m currently learning **java , linux , webDevelopment**
-
-- 💬 Ask me about **linux ,kali linux , java ...**
-
-- 📫 How to reach me **sahilsaundale@gmail.com**
-
-- ⚡ Fun fact **I want to join FAANG 😂🤣😅😆**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sahil_saundale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil_saundale" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil saundale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil saundale" height="30" width="40" /></a>
-<a href="https://instagram.com/pika5518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pika5518" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pikachu_001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pikachu_001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pikachu_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pikachu_001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pikachu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pikachu" height="30" width="40" /></a>
-<a href="https://discord.gg/pik4chu#7886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pik4chu#7886" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="css.png" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="html.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="download.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux-ar21.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=root-pik4chu&show_icons=true&locale=en&layout=compact" alt="root-pik4chu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=root-pik4chu&show_icons=true&locale=en" alt="root-pik4chu" /></p>
+all the img's and the gif
